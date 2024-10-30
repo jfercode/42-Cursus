@@ -22,8 +22,7 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
   <br/>
   <br/>
   <br/>
-<div style="text-align: center; font-family: monospace; white-space: pre-wrap;">
-/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * /
+
 </div>
 
 <br/>
@@ -40,7 +39,4 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVInHuUPtp3uiEuvF0aYAkFBUzpnr65b2CDA&s" alt="Logo"/>
 </div>
 <br/>
-
-<div style="text-align: center; font-family: monospace; white-space: pre-wrap;">
-/  * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
 </div>
