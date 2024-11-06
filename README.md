@@ -17,7 +17,7 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
 ### [Descripción y código](https://github.com/H0ll0wB01/42-Get-Next-Line) => Puntuación: 125/100 ✅⭐
 
 ## 42-Born-2-be-Root
-### [Guia para la evaluación](https://github.com/H0ll0wB01/42-Born-2-be-Root/tree/main)Puntuación: 125/100 ✅⭐
+### [Guia para la evaluación](https://github.com/H0ll0wB01/42-Born-2-be-Root/tree/main) => Puntuación: 125/100 ✅⭐
 
   <br/>
   <br/>
