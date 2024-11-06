@@ -11,7 +11,7 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
 # Nivel 1️⃣
 
 ## 42-Printf.c
-### [Descripción y código](https://github.com/H0ll0wB01/42-Cursus-Prinf) => Puntuación: 100/100 ✅
+### [Descripción y código](https://github.com/H0ll0wB01/42-Cursus-Prinf.c) => Puntuación: 100/100 ✅
 
 ## 42-Get-Next-Line
 ### [Descripción y código](https://github.com/H0ll0wB01/42-Get-Next-Line) => Puntuación: 125/100 ✅⭐
