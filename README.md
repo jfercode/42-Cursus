@@ -23,6 +23,8 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
 ## 42-Push-swap
 ### [Descripción y código](https://github.com/jfercode/42-Push-swap) => Puntuación: 100/100 ✅
 
+## 42-Pipex
+### [Descripción y código](https://github.com/jfercode/42-Pipex) => Puntuación: 100/100 ✅
   <br/>
   <br/>
   <br/>
