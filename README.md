@@ -29,6 +29,10 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
 ## 42-So-Long 🎮🛤️
 ### [Descripción y código](https://github.com/jfercode/42-So-Long) => Puntuación: 125/125 ✅⭐
 
+# Nivel 3️⃣
+## 42-Philosophers 🧠
+### [Descripción y código](https://github.com/jfercode/42-Philosophers) => Puntuación: 100/100 ✅
+
   <br/>
   <br/>
   <br/>
