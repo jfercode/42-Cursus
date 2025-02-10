@@ -17,14 +17,18 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
 ### [Descripción y código](https://github.com/jfercode/42-Get-Next-Line) => Puntuación: 125/100 ✅⭐
 
 ## 42-Born-2-be-Root 🖥️🔒
-### [Guia para la evaluación](https://github.com/jfercode/42-Born-2-be-Root/tree/main) => Puntuación: 125/100 ✅⭐
+<!--### [Guia para la evaluación](https://github.com/jfercode/42-Born-2-be-Root/tree/main) => --> 
+## Puntuación: 125/100 ✅⭐
 
 # Nivel 2️⃣
 ## 42-Push-swap 🔄
 ### [Descripción y código](https://github.com/jfercode/42-Push-swap) => Puntuación: 100/100 ✅
 
 ## 42-Pipex 🚰
-### [Descripción y código](https://github.com/jfercode/42-Pipex) => Puntuación: 100/100 ✅
+### [Descripción y código](https://github.com/jfercode/42-Pipex) => Puntuación: 125/100 ✅⭐
+
+## 42-Minitalk 📡
+### [Descripción y código](https://github.com/jfercode/42-Minitalk) => Puntuación: 125/100 ✅⭐
 
 ## 42-So-Long 🎮🛤️
 ### [Descripción y código](https://github.com/jfercode/42-So-Long) => Puntuación: 125/125 ✅⭐
