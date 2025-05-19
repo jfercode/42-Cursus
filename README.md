@@ -37,6 +37,10 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
 ## 42-Philosophers 🍽️🧠
 ### [Descripción y código](https://github.com/jfercode/42-Philosophers) => Puntuación: 100/100 ✅
 
+# Nivel 3️⃣
+## 42-Minishell 🚀🖥️📘
+### [Descripción y código](https://github.com/jfercode/42-Minishell) => Puntuación: 100/100 ✅
+
   <br/>
   <br/>
   <br/>
