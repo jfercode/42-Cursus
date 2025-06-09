@@ -20,7 +20,12 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
 |       | So Long 🎮🛤️ | [Ver repositorio](https://github.com/jfercode/42-So-Long) | 125/125 ✅⭐ |
 | 3️⃣    | Philosophers 🍽️🧠 | [Ver repositorio](https://github.com/jfercode/42-Philosophers) | 100/100 ✅ |
 |       | Minishell 🚀🖥️📘 | [Ver repositorio](https://github.com/jfercode/42-Minishell) | 100/100 ✅ |
-
+| 4️⃣    | CPP Module 00 🧩 | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-00) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
+|       | CPP Module 01 🧠 | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-01) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
+|       | CPP Module 02 ⚙️ | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-02) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
+|       | CPP Module 03 🔁 | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-03) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
+|       | CPP Module 04 🎭 | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-04) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
+|       | cub3D 🧱🕹️ | <!-- [Ver repositorio](https://github.com/jfercode/42-cub3D) --> 🚧 En progreso 🚧 | <!-- 125/125 ✅⭐ --> |
 ---
 
 <br/>
