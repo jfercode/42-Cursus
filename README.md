@@ -5,28 +5,64 @@ Hola, soy <a href="https://github.com/jfercode">Javier Fernández Correa</a>, un
 Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Madrid, profundizando en los campos de la informática y el desarrollo de software. Por ello aquí presento mi progreso actual con referencias a los proyectos completados y la puntuación obtenida.
 
 ---
-
 ## 🚧 Progreso por niveles
 
-| Nivel | Proyecto | Enlace | Puntuación |
-|-------|----------|--------|------------|
-| 0️⃣    | Libft 📚✨ | [Ver repositorio](https://github.com/jfercode/42-Cursus-Libft) | 125/100 ✅⭐ |
-| 1️⃣    | Printf 🖨️ | [Ver repositorio](https://github.com/jfercode/42-Printf) | 100/100 ✅ |
-|       | Get Next Line 📜 | [Ver repositorio](https://github.com/jfercode/42-Get-Next-Line) | 125/100 ✅⭐ |
-|       | Born 2 Be Root 🖥️🔒 | — | 125/100 ✅⭐ |
-| 2️⃣    | Push Swap 🔄 | [Ver repositorio](https://github.com/jfercode/42-Push-swap) | 100/100 ✅ |
-|       | Pipex 🚰 | [Ver repositorio](https://github.com/jfercode/42-Pipex) | 125/100 ✅⭐ |
-|       | Minitalk 📡 | [Ver repositorio](https://github.com/jfercode/42-Minitalk) | 125/100 ✅⭐ |
-|       | So Long 🎮🛤️ | [Ver repositorio](https://github.com/jfercode/42-So-Long) | 125/125 ✅⭐ |
-| 3️⃣    | Philosophers 🍽️🧠 | [Ver repositorio](https://github.com/jfercode/42-Philosophers) | 100/100 ✅ |
-|       | Minishell 🚀🖥️📘 | [Ver repositorio](https://github.com/jfercode/42-Minishell) | 100/100 ✅ |
-| 4️⃣    | CPP Module 00 🧩 | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-00) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
-|       | CPP Module 01 🧠 | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-01) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
-|       | CPP Module 02 ⚙️ | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-02) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
-|       | CPP Module 03 🔁 | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-03) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
-|       | CPP Module 04 🎭 | <!-- [Ver repositorio](https://github.com/jfercode/42-CPP-Module-04) --> 🚧 En progreso 🚧 | <!-- 100/100 ✅ --> |
-|       | cub3D 🧱🕹️ | <!-- [Ver repositorio](https://github.com/jfercode/42-cub3D) --> 🚧 En progreso 🚧 | <!-- 125/125 ✅⭐ --> |
----
+<details>
+  <summary>0️⃣ Nivel 0</summary>
+
+| Proyecto             | Enlace                                                                 | Puntuación     | Estado        |
+|----------------------|------------------------------------------------------------------------|----------------|---------------|
+| Libft 📚✨            | [Ver repositorio](https://github.com/jfercode/42-Cursus-Libft)         | 125/100 ✅⭐    | Completado ✅ |
+  
+</details>
+
+<details>
+  <summary>1️⃣ Nivel 1</summary>
+
+| Proyecto             | Enlace                                                                 | Puntuación     | Estado        |
+|----------------------|------------------------------------------------------------------------|----------------|---------------|
+| Printf 🖨️            | [Ver repositorio](https://github.com/jfercode/42-Printf)               | 100/100 ✅     | Completado ✅ |
+| Get Next Line 📜      | [Ver repositorio](https://github.com/jfercode/42-Get-Next-Line)        | 125/100 ✅⭐    | Completado ✅ |
+| Born 2 Be Root 🖥️🔒  | —                                                                      | 125/100 ✅⭐    | Completado ✅ |
+  
+</details>
+
+<details>
+  <summary>2️⃣ Nivel 2</summary>
+
+| Proyecto             | Enlace                                                                 | Puntuación     | Estado        |
+|----------------------|------------------------------------------------------------------------|----------------|---------------|
+| Push Swap 🔄          | [Ver repositorio](https://github.com/jfercode/42-Push-swap)            | 100/100 ✅     | Completado ✅ |
+| Pipex 🚰              | [Ver repositorio](https://github.com/jfercode/42-Pipex)                | 125/100 ✅⭐    | Completado ✅ |
+| Minitalk 📡           | [Ver repositorio](https://github.com/jfercode/42-Minitalk)             | 125/100 ✅⭐    | Completado ✅ |
+| So Long 🎮🛤️         | [Ver repositorio](https://github.com/jfercode/42-So-Long)              | 125/125 ✅⭐    | Completado ✅ |
+
+</details>
+
+<details>
+  <summary>3️⃣ Nivel 3</summary>
+
+| Proyecto             | Enlace                                                                 | Puntuación     | Estado        |
+|----------------------|------------------------------------------------------------------------|----------------|---------------|
+| Philosophers 🍽️🧠    | [Ver repositorio](https://github.com/jfercode/42-Philosophers)         | 100/100 ✅     | Completado ✅ |
+| Minishell 🚀🖥️📘      | [Ver repositorio](https://github.com/jfercode/42-Minishell)            | 100/100 ✅     | Completado ✅ |
+
+</details>
+
+<details>
+  <summary>4️⃣ Nivel 4 (En progreso)</summary>
+
+| Proyecto             | Enlace                                                                 | Puntuación     | Estado          |
+|----------------------|------------------------------------------------------------------------|----------------|-----------------|
+| CPP Module 00 🧩     | [Repositorio](https://github.com/jfercode/42-CPP-Module-00)            | —              | 🚧 En progreso  |
+| CPP Module 01 🧠     | [Repositorio](https://github.com/jfercode/42-CPP-Module-01)            | —              | 🚧 En progreso  |
+| CPP Module 02 ⚙️     | [Repositorio](https://github.com/jfercode/42-CPP-Module-02)            | —              | 🚧 En progreso  |
+| CPP Module 03 🔁     | [Repositorio](https://github.com/jfercode/42-CPP-Module-03)            | —              | 🚧 En progreso  |
+| CPP Module 04 🎭     | [Repositorio](https://github.com/jfercode/42-CPP-Module-04)            | —              | 🚧 En progreso  |
+| cub3D 🧱🕹️          | [Repositorio](https://github.com/jfercode/42-cub3D)                    | —              | 🚧 En progreso  |
+
+</details>
+
 
 <br/>
 
