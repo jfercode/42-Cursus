@@ -60,6 +60,8 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
 | CPP Module 03 🔁     | [Repositorio](https://github.com/jfercode/42-CPP-Module-03)            | —              | 🚧 En progreso  |
 | CPP Module 04 🎭     | [Repositorio](https://github.com/jfercode/42-CPP-Module-04)            | —              | 🚧 En progreso  |
 | cub3D 🧱🕹️          | [Repositorio](https://github.com/jfercode/42-cub3D)                    | —              | 🚧 En progreso  |
+| netpractice 🕸️       | [Repository](https://github.com/jfercode/42-NetPractice)                      | —              | ⏳ To Do |
+
 
 </details>
 
