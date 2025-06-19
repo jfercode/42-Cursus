@@ -54,7 +54,7 @@ Ahora, estoy mejorando mis habilidades de programación como estudiante en 42 Ma
 
 | Proyecto             | Enlace                                                                 | Puntuación     | Estado          |
 |----------------------|------------------------------------------------------------------------|----------------|-----------------|
-| CPP Module 00 🧩     | [Repositorio](https://github.com/jfercode/42-CPP-Module-00)            | —              | 🚧 En progreso  |
+| CPP Module 00 🧩     | [Repositorio](https://github.com/jfercode/42-CPP-Module-00)            | 100/100 ✅     | Completado ✅ |
 | CPP Module 01 🧠     | [Repositorio](https://github.com/jfercode/42-CPP-Module-01)            | —              | 🚧 En progreso  |
 | CPP Module 02 ⚙️     | [Repositorio](https://github.com/jfercode/42-CPP-Module-02)            | —              | 🚧 En progreso  |
 | CPP Module 03 🔁     | [Repositorio](https://github.com/jfercode/42-CPP-Module-03)            | —              | 🚧 En progreso  |
